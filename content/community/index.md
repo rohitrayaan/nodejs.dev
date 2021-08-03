@@ -21,6 +21,7 @@ We welcome all kinds of contributions — documentation, bugs reporting, core co
 
 * [Community Discussions](https://nodejs.org/en/get-involved/#community-discussion)
 * [Learning Node.js](https://nodejs.org/en/get-involved/#learning)
+* [Learning  Node.js in depth ](https://developer.mozilla.org/en-US/docs/Web/API/Node)
 * [Asking for General Help](https://nodejs.org/en/get-involved/contribute/#asking-for-general-help)
 * [Reporting an Issue](https://nodejs.org/en/get-involved/contribute/#reporting-an-issue)
 * [Code contributions](https://nodejs.org/en/get-involved/contribute/#code-contributions)
